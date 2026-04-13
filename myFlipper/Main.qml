@@ -7,7 +7,7 @@ Window {
     visible: true
     title: qsTr("Hello World")
 
-    SwipeView {
+    StackView {
         id: view
         anchors.fill: parent
 
